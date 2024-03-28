@@ -1,0 +1,1 @@
+Create a recipe directory page using basic HTML. Link multiple webpages to this page using relative links. Format the page with images, headers, paragraphs, and ordered/unordered lists. Finally, employ sound git practices by making commits early and often when substantive changes are made.
